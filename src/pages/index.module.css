@@ -1,0 +1,26 @@
+.newMsgFromServer {
+  background-color: rgb(170, 170, 170);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 20px;
+  border-radius: 25px;
+  display: block;
+  width: fit-content;
+}
+
+.newMsgInputted {
+  background-color: rgb(187, 250, 128);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 20px;
+  border-radius: 25px;
+  display: block;
+  width: fit-content;
+
+  position: relative;
+  right:0;
+}
