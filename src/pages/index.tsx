@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import io, { Socket } from 'socket.io-client';
-import styles from './index.module.css'
+import styles from '../styles/index.module.css'
 import { ACTION } from '../../constants/constants';
 
 export default function MyComponent() {
